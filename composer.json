@@ -1,0 +1,17 @@
+{
+  "name": "oinenarravel/siac-by-leandro",
+  "description": "Sistema Integrado Academico",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Leandro Souza Ferreira",
+      "email": "leandrosouzaferreira.es@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "SIAC\\": "models/"
+    }
+  }
+}
